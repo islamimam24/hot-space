@@ -1,6 +1,6 @@
-# coworking_space
+# HotSpace
 
-A new Flutter project.
+A new Flutter project that allows you to find your workspace near you and connect you directly with the best offer you can get
 
 ## Getting Started
 
