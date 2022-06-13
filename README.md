@@ -1,11 +1,13 @@
 # HotSpace
 
-A new Flutter project that allows you to find your workspace near you and connect you directly with the best offer you can get
+Developed this project from scratch in two months using Flutter and Firebase as a backend.
+Features
+1. HotSpace is to find a nearby workspace.
+2. Book and contact a workplace whether by a phone number or direct texting.
+3. Workspaces owners can represent the workspace with customize offers for all users.
+
 
 ## Getting Started
-
-
-
 
 
 
