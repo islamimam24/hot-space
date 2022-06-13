@@ -1,6 +1,7 @@
 # HotSpace
 
 Developed this project from scratch in two months using Flutter and Firebase as a backend.
+
 Features
 1. HotSpace is to find a nearby workspace.
 2. Book and contact a workplace whether by a phone number or direct texting.
